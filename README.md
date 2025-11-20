@@ -1,4 +1,5 @@
-## Hi, I am Muhammad. I am a Machine Learning Engineer/Data Scientist with experience in the HealthTech and Semiconductor space. I come from a background in physics and scientific computing. I hold a PhD in physics from Wayne State University. 👋
+##  About Me
+Hi, I am Muhammad. I am a Machine Learning Engineer/Data Scientist with experience in the HealthTech and Semiconductor space. I come from a background in physics and scientific computing. I hold a PhD in physics from Wayne State University. 👋
 
 
 ## Work 🖥️
