@@ -16,7 +16,7 @@ Hi,I am a Machine Learning Engineer/Data Scientist with experience in the Health
 ## Connect with Me 🤝
 
 - :rocket:  [My personal website](http://melnimr.github.io/)
-- :octocat: [Github](https://github.com/melnimr/melnimr)
+- :octocat: [Github](https://github.com/melnimr)
 - <a href="https://www.linkedin.com/in/melnimr"><img style="width:1em;height:1em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055"></a>  [LinkedIn](https://www.linkedin.com/in/elnimr)
 - <a href="https://scholar.google.com/citations?user=JkgpNzUAAAAJ&hl=en"><img style="width:1em;height:1em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/512px-Google_Scholar_logo.svg.png?20200110094142"></a> [Google Scholar](https://scholar.google.com/citations?user=JkgpNzUAAAAJ&hl=en) (in physics)
 
